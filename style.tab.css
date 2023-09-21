@@ -62,12 +62,12 @@ footer{
 }
 
 
-@media (min-width:300px) and (max-width:420px){
+@media (min-width:320px) and (max-width:420px){
     body{
         overflow-x: hidden;
     }
     header{
-        width: 290px;
+        width: 300px;
         padding: 5px;
         font-size: 1em;
     }
@@ -75,7 +75,7 @@ footer{
         font-size: 1em;
     }
     section{
-        width: 290px;
+        width: 300px;
         height: 450px;
         padding: 5px;
     }

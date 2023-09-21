@@ -12,7 +12,7 @@ if(tx1.value.length == 0){
     sec.innerHTML = ''
     for(let c=1;c<=10;c++){
         let item = document.createElement('option')
-        item.text = `${tx} x ${c}= ${tx*c}`
+        item.text = `${tx} x ${c} = ${tx*c}`
         sec.appendChild(item)
     }    
 }
@@ -28,7 +28,7 @@ if(tx1.value.length == 0){
     sec.innerHTML = ''
     for(let c=1;c<=10;c++){
         let item = document.createElement('option')
-        item.text = `${tx} + ${c}= ${tx+c}`
+        item.text = `${tx} + ${c} = ${tx+c}`
         sec.appendChild(item)
     }    
 }
@@ -44,7 +44,7 @@ if(tx1.value.length == 0){
     sec.innerHTML = ''
     for(let c=1;c<=10;c++){
         let item = document.createElement('option')
-        item.text = `${tx} - ${c}= ${tx-c.toFixed(2)}`
+        item.text = `${tx} - ${c} = ${tx-c.toFixed(2)}`
         sec.appendChild(item)
     }    
 }

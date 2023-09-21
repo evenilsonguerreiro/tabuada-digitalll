@@ -67,7 +67,7 @@ footer{
         overflow-x: hidden;
     }
     header{
-        width: 230px;
+        width: 300px;
         padding: 5px;
         font-size: 1em;
     }
@@ -75,7 +75,7 @@ footer{
         font-size: 1em;
     }
     section{
-        width: 230px;
+        width: 300px;
         height: 450px;
         padding: 5px;
     }
@@ -97,7 +97,7 @@ footer{
         padding: 10px;
         font-size: 1.3em;
         font-weight: 700;
-        background-color:bisque;
+        background-color:rgb(150, 149, 148);
         
     }
     #txtab,#txtab2,#txtab3{

@@ -62,7 +62,7 @@ footer{
 }
 
 
-@media (min-width:256px) and (max-width:420px){
+@media (min-width:320px) and (max-width:420px){
     body{
         overflow-x: hidden;
     }

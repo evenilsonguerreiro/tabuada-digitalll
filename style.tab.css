@@ -92,12 +92,12 @@ footer{
         font-weight: bold;
     }
     #selc{
-        width: 220px;
+        width: 300px;
         height: 300px;
         padding: 10px;
         font-size: 1.3em;
         font-weight: 700;
-        background-color:bisque;
+        background-color:rgb(230, 139, 28);
         
     }
     #txtab,#txtab2,#txtab3{

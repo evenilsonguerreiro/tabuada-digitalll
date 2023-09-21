@@ -67,7 +67,7 @@ footer{
         overflow-x: hidden;
     }
     header{
-        width: 300px;
+        width: 310px;
         padding: 5px;
         font-size: 1em;
     }
@@ -75,7 +75,7 @@ footer{
         font-size: 1em;
     }
     section{
-        width: 300px;
+        width: 310px;
         height: 450px;
         padding: 5px;
     }
@@ -92,12 +92,12 @@ footer{
         font-weight: bold;
     }
     #selc{
-        width: 300px;
+        width: 310px;
         height: 300px;
         padding: 10px;
         font-size: 1.3em;
         font-weight: 700;
-        background-color:rgb(230, 139, 28);
+        background-color:rgb(165, 164, 163);
         
     }
     #txtab,#txtab2,#txtab3{
